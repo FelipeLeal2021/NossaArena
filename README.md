@@ -52,9 +52,9 @@ Projeto desenvolvido para a empresa **NossaArena**, com o objetivo de criar uma 
 
 ---
 
-## 📸 Capturas de Tela
+## 📸 Visualização do Projeto
 
-*(Adicione aqui imagens ou vídeos demonstrando a aplicação, se possível)*
+O projeto da NossaArena software foi criado para atender qualquer demanda da mesma, direitos de uso estão reservados para os desenvolvedores do projeto e empresa, caso necessario solicite acesso a um dos desenvolvedores.
 
 ---
 
@@ -63,4 +63,5 @@ Projeto desenvolvido para a empresa **NossaArena**, com o objetivo de criar uma 
 Para mais informações sobre o projeto ou colaborações futuras:
 
 - 📧 contato@nossaarena.com.br  
-- 💼 Desenvolvedor: [SeuNome] – Freelancer Full Stack
+- 💼 Desenvolvedor: [Felipe Leal] – Freelancer Full Stack
+- 💼 Desenvolvedor: [Kaiky Pires] – Desenvolvedor Front-end
