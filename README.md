@@ -54,7 +54,7 @@ Projeto desenvolvido para a empresa **NossaArena**, com o objetivo de criar uma 
 
 ## 📸 Visualização do Projeto
 
-O projeto da NossaArena software foi criado para atender qualquer demanda da mesma, direitos de uso estão reservados para os desenvolvedores do projeto e empresa, caso necessario solicite acesso a um dos desenvolvedores.
+O projeto da NossaArena software foi criado para atender qualquer demanda da mesma, direitos de uso estão reservados para os desenvolvedores do projeto e da empresa, caso necessario solicite acesso a um dos desenvolvedores.
 
 ---
 
